@@ -1,4 +1,4 @@
-__# NYPD-COMPLAINTS-DATA-ANALYSIS__
+__NYPD-COMPLAINTS-DATA-ANALYSIS__
 
 - The first step of the project involved identifying possible data issues and formulating the problem. The dataset was processed using Pyspark, which enabled the efficient handling of large volumes of data.
 - Multiple cleaning strategies were then implemented on the dataset, resulting in clean and reliable data that can be used for further analysis.
